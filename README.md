@@ -20,6 +20,7 @@ Para contatos de trabalho:
 10. Deletar contato: Insira o telefone que deseja excluir.
 11. Salvar agenda em binário:  Selecione essa opção e o arquivo será gerado imediatamente com todos os contatos cadastrados na agenda.
 12. Carregar agenda de binário: Tenha um arquivo em formato binário com os seus contatos, selecione essa opção e os contatos da sua agenda já estarão disponíveis no programa.
+
 0. Sair: Digite 0 e o programa será encerrado.
 
 Para dúvidas ou sugestões entre em contato em nossos e-mails: unifgcorrea@fei.edu.br ou unifraffo@fei.edu.br.
