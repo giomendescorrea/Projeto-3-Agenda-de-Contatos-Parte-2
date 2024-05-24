@@ -19,6 +19,7 @@ Para contatos pessoais:
 6. Carregar agenda de binário: Tenha um arquivo em formato binário com os seus contatos, selecione essa opção e os contatos da sua agenda já estarão disponíveis no programa.
 
 Para contatos de trabalho:
+
 7. Adicionar contato: Insira um nome de até 25 caracteres, insira o sobrenome com ate 50 caracteres, insira um e-mail com até 50 caracteres também e insira o telefone.
 
 8. Listar contatos: Selecione essa opção e será listada toda a agenda de contatos.
