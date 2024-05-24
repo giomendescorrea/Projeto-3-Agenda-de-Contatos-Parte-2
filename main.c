@@ -25,7 +25,7 @@ int main() { // função principal com chamada de funções
     printf("8 - Listar contatos de trabalho\n");
     printf("9 - Editar contato de trabalho\n");
     printf("10 - Deletar contato de trabalho\n");
-    printf("1 - Exportar contatos de trabalho para binário\n");
+    printf("11 - Exportar contatos de trabalho para binário\n");
     printf("12 - Carregar contatos de trabalho de binário\n");
     printf("0 - Sair\n");
     printf("Escolha uma opção: ");
